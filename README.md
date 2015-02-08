@@ -1,2 +1,2 @@
 # bootstrap_template
-Base Bootstrap template
+Ballco Metal Template
